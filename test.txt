@@ -1,3 +1,4 @@
 this is a test. Clone function
 This means when I am in the office I can still edit the file and check it out later at home.
-Thi would be fantastic!
+This would be fantastic!
+Now I am updating again at home. Let's see if this will be synchronised.
