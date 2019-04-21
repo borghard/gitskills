@@ -1,1 +1,3 @@
 this is a test. Clone function
+This means when I am in the office I can still edit the file and check it out later at home.
+Thi would be fantastic!
